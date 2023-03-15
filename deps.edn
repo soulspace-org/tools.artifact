@@ -1,0 +1,2 @@
+{:deps {org.clojure/clojure {:mvn/version "1.10.3"}
+        org.soulspace.clj/clj.java {:mvn/version "0.8.0"}}}
