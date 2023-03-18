@@ -10,4 +10,5 @@
   :lein-tools-deps/config {:config-files [:install :user :project]}
 
   :test-paths ["test"]
+  :scm {:name "git" :url "https://github.com/soulspace-org/tools.artifact"}
   :deploy-repositories [["clojars" {:sign-releases false :url "https://clojars.org/repo"}]])
